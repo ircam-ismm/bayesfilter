@@ -36,3 +36,7 @@ Basic usage:
 	
 	for t in RAW_EMG_MATRIX.shape[0]:
 		envelope_at_t = filt.update(RAW_EMG_MATRIX[t,:])
+
+# credits
+
+bayesfilter has been authored by Jules Françoise : jules.francoise@ircam.fr
