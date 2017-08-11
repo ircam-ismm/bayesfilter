@@ -3,7 +3,7 @@
  * @author Jules Francoise jules.francoise@ircam.fr
  * @date 2013-12-24
  *
- * @brief Non-linear Baysian filtering for EMG Enveloppe Extraction.
+ * @brief Non-linear Bayesian filtering for EMG Enveloppe Extraction.
  * Based on Matlab code by Terence Sanger : kidsmove.org/bayesemgdemo.html
  * Reference:
  * - Sanger, T. (2007). Bayesian filtering of myoelectric signals. Journal of neurophysiology, 1839–1845.
